@@ -1,0 +1,4 @@
+export const GET_CONTACTS = 'GET_CONTACTS';
+export const VERIFY_CONTACT = 'VERIFY_CONTACT';
+export const RESET_CONTACT = 'RESET_CONTACT';
+
